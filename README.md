@@ -22,7 +22,7 @@
     <br>
   
   <h3>Back-End Frameworks:</h3>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="laravel" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">  </a><br>
   
   <h3>Database:</h3>
