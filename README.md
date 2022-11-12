@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from Egypt Who Wants To Make A Difference</h3>
 
 
-- 🌱 I’m currently learning **Spring boot, DDD, Advanced Database**
+- 🌱 I’m currently learning **Machine Learning, Advanced Software PM**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
 
