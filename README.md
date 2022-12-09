@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
 
-- 💬 Ask me about **PHP, Laravel, VueJS, MySQL, REST APIs**
+- 💬 Ask me about **PHP, Laravel, JS, Jquery, Ajax, MySQL, REST APIs**
 
 - 📫 How to reach me **ehab.developer.email@gmail.com**
 
