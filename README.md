@@ -2,6 +2,10 @@
 <h3 align="center">A Passionate Software Engineer from Egypt Who Wants To Make A Difference</h3>
 
 
+https://github.com/ehab-elshimi/ehab-elshimi/assets/99149488/99bde9dd-df0c-495a-9da3-a20a817a8a9f
+
+
+
 - 🌱 I’m currently learning **Machine Learning, Advanced Software PM**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
