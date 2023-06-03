@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Software Engineer from Egypt Who Wants To Make A Difference</h3>
 
 
-<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
 
 
 - 🌱 I’m currently learning **Machine Learning, Advanced Software PM**
