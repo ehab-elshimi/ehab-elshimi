@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
 
 - 💬 Ask me about **Javascript, Reactjs, Nextjs, CSS, Bootstrap, Tailwindcss, Ajax, firebase, GraphQL**
-- 💬 Ask me about **PHP LARAVEL MySQL**
+- 💬 Ask me about **PHP, Laravel, MySQL**
 
 - 📫 How to reach me **ehab.developer.email@gmail.com**
 
