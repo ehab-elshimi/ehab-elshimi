@@ -4,17 +4,18 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning, Advanced Software PM**
+- 🌱 I’m currently learning **Fullstack Web Development, Advanced Software Engineering**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
 
-- 💬 Ask me about **PHP, Laravel, JS, Jquery, Ajax, MySQL, REST APIs**
+- 💬 Ask me about **Javascript, Reactjs, Nextjs, CSS, Bootstrap, Tailwindcss, Ajax, firebase, GraphQL**
+- 💬 Ask me about **PHP LARAVEL MySQL**
 
 - 📫 How to reach me **ehab.developer.email@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ehab-elshimi-b76b0a149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-raslan-109891184" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ehab-elshimi-b76b0a149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h3>
