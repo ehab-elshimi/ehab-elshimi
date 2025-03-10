@@ -1,49 +1,71 @@
 <h1 align="center">Hi 👋, I'm Ehab Elshimi</h1>
-<h3 align="center">A Passionate Software Engineer from Egypt Who Wants To Make A Difference</h3>
+<h3 align="center">🚀Passionate Software Engineer | Backend Engineer | Java Spring Boot Developer</h3>
 
+💻 I'm a Backend Engineer specializing in Java Spring Boot, and I’m fully focused on building my career in this field.
 
+📈 My goal is to gain deep expertise, work in top companies, and grow step by step.
 
+🎯 Over the coming years, I aspire to become a Technical Lead, leading impactful projects and contributing to innovative solutions.
 
-- 🌱 I’m currently learning **Fullstack Web Development, Advanced Software Engineering**
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ehab-elshimi-b76b0a149/](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
+### 🎓 Education
+- **Benisuef University**
+- **Bachelor of Computer Science and Artificial Intelligence** (2019 – 2023)
+- **GPA:** 2.8 (Very Good)
+- **Graduation Project:** AI-Powered Skin Care Analysis Software (Grade: Excellent)
 
-- 💬 Ask me about **Javascript, Reactjs, Nextjs, CSS, Bootstrap, Tailwindcss, Ajax, firebase, GraphQL**
-- 💬 Ask me about **PHP, Laravel, MySQL**
+---
 
-- 📫 How to reach me **ehab.developer.email@gmail.com**
+### 🛠 Tech Stack & Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ehab-elshimi-b76b0a149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-</p>
+#### 🔹 Programming Languages
+- Java
+- JavaScript (ES6+)
+- TypeScript
 
-<h1 align="left">Languages and Tools:</h3>
-<p align="left">
-  <h3 align="left">Programming Languages: </h3>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"        alt="php" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"   alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img                                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <br>
-  
-  <h3>Back-End Frameworks:</h3>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  
-  <h3>Database:</h3>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><br>
-  
-  <h3>Front-End:</h3>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><br>
-  
-  <h3>Web Servers:</h3>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/> </a><br>
-  
-  <h3>Graphic Design</h3>
-   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/mena_en/products/premiere.html?skwcid=AL!3085!3!340845222364!e!!g!!adobe%20premiere&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAjwjtOTBhAvEiwASG4bCOXnVBGO-lF7TyR2N6f6vhkMbdyu6Un18kARjwY_eI8LCYdwcFVQ2RoCkUUQAvD_BwE:G:s&s_kwcid=AL!3085!3!340845222364!e!!g!!adobe%20premiere!1463162857!56526991333&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOXnVBGO-lF7TyR2N6f6vhkMbdyu6Un18kARjwY_eI8LCYdwcFVQ2RoCkUUQAvD_BwE" target="_blank" rel="noreferrer"> </a> <br>
-  
-  <h3>Operating Systems:</h3>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.microsoft.com/ar-xm/windows?r=1"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1024px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="40" height="40" /> </a><br>
-  
-  
-  <h3>Other Technologies: </h3>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>         </p>
+#### 🔹 Backend Development
+- Spring Boot
+- RESTful APIs
+- Microservices Architecture
+- SQL & NoSQL Databases
+- Schema Design & ERD
+- Database Management
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedraslan&show_icons=true&locale=en&layout=compact" alt="ehabelshimi" /></p>
+#### 🔹 Frontend Development
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Redux & Context API
+
+#### 🔹 Software Engineering & Development Concepts
+- Software Development Life Cycle (SDLC)
+- Design Patterns (Singleton, Strategy, Repository....)
+- SOLID Principles
+- Clean Code & Best Practices
+- CI/CD & DevOps Basics
+- Agile & Scrum Methodologies
+- Jira & Scrum Master Practices
+- Operating Systems (Windows & Linux Ubuntu)
+
+#### 🔹 Tools & Technologies
+- Docker & Kubernetes (Basic Understanding)
+- Git & GitHub
+- Jenkins
+- Postman
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/ehab-elshimi-b76b0a149](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
+- Email: ehab.developer.email@gmail.com
+
+---
+
+💡 Always eager to learn, collaborate, and contribute to exciting projects!
+
+### Tags
+
+`Java` `Spring Boot` `React.js` `JavaScript` `TypeScript` `Backend` `Frontend` `Software Engineer` `Microservices` `RESTful APIs` `Docker` `Kubernetes` `Git` `GitHub` `Tailwind CSS` `Bootstrap`
