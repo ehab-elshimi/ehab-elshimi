@@ -61,6 +61,11 @@
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/ehab-elshimi-b76b0a149](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)
 - Email: ehab.developer.email@gmail.com
+  
+   # Contact Information
+    -  📞 **Phone Number:** [+20 1099644971](tel:+201099644971)  
+    -  💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/201099644971)  
+    -  📌 **Address:** Zahraa Nasr, Cairo, Egypt
 
 ---
 
