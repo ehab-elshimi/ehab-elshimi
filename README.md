@@ -17,7 +17,7 @@
 
 ---
 
-## 🔧 Backend Java-Spring Development
+## 🖥️ Backend Java-Spring Development
 
 I specialize in backend development using:  
 **Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **JPA/Hibernate**, and clean layered architecture.
