@@ -1,73 +1,88 @@
 <h1 align="center">Hi 👋, I'm Ehab Elshimi</h1>
-<h3 align="center">🚀Passionate Software Engineer | Backend Engineer | Java Spring Boot Developer</h3>
-
-💻 I'm a Backend Engineer specializing in Java Spring Boot, and I’m fully focused on building my career in this field.
-
-📈 My goal is to gain deep expertise, work in top companies, and grow step by step.
-
-🎯 Over the coming years, I aspire to become a Technical Lead, leading impactful projects and contributing to innovative solutions.
+<h3 align="center">🚀 Passionate Software Engineer | Backend Engineer | Java Spring Boot Developer</h3>
 
 ---
 
-### 🎓 Education
-- **Benisuef University**
-- **Bachelor of Computer Science and Artificial Intelligence** (2019 – 2023)
-- **GPA:** 2.8 (Very Good)
-- **Graduation Project:** AI-Powered Skin Care Analysis Software (Grade: Excellent)
+💻 I'm a **Backend Engineer** specializing in Java Spring Boot, focused on building robust APIs and scalable backend systems.
+
+📈 My goal is to gain deep expertise, contribute to top tech teams, and grow step by step into a **Technical Lead**.
 
 ---
 
-### 🛠 Tech Stack & Skills
+## 🎓 Education
 
-#### 🔹 Programming Languages
-- Java
-- JavaScript (ES6+)
-- TypeScript
-
-#### 🔹 Backend Development
-- Spring Boot
-- RESTful APIs
-- Microservices Architecture
-- SQL & NoSQL Databases
-- Schema Design & ERD
-- Database Management
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-
-#### 🔹 Frontend Development
-- React.js
-- Tailwind CSS
-- Bootstrap
-- Redux & Context API
-
-#### 🔹 Software Engineering & Development Concepts
-- Software Development Life Cycle (SDLC)
-- Design Patterns (Singleton, Strategy, Repository....)
-- SOLID Principles
-- Clean Code & Best Practices
-- CI/CD & DevOps Basics
-- Agile & Scrum Methodologies
-- Jira & Scrum Master Practices
-- Operating Systems (Windows & Linux Ubuntu)
-
-#### 🔹 Tools & Technologies
-- Docker & Kubernetes (Basic Understanding)
-- Git & GitHub
-- Jenkins
-- Postman
+- 🎓 **Benisuef University**, Bachelor of Computer Science and Artificial Intelligence (2019 – 2023)  
+- 🧠 **Graduation Project**: AI-Powered Skin Care Analysis (Grade: Excellent)  
+- 📊 **GPA**: 2.8 (Very Good)
 
 ---
 
-### 📫 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/ehab-elshimi-b76b0a149](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)  
-- **Email:** ehab.developer.email@gmail.com 
-- 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/201099644971)
-- 📞 **Phone Number:** [+20 1099644971](tel:+201099644971)  
-- 📌 **Address:** Zahraa Nasr, Cairo, Egypt  
+## 🔧 Backend Java-Spring Development
+
+I specialize in backend development using:
+**Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **JPA/Hibernate**, and clean layered architecture.
+
+🔗 [⭐ Backend Java-Spring Stack (Star List)](https://github.com/stars/ehabshimi/lists/my-backend-java-spring-stack)
+
 ---
 
-💡 Always eager to learn, collaborate, and contribute to exciting projects!
+## 🌐 Frontend Knowledge
 
-### Tags
+In addition to backend, I’ve gained practical experience building and styling web interfaces using:
+**HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Tailwind CSS**, **React.js**, and **Next.js**.
 
-`Java` `Spring Boot` `React.js` `JavaScript` `TypeScript` `Backend` `Frontend` `Software Engineer` `Microservices` `RESTful APIs` `Docker` `Kubernetes` `Git` `GitHub` `Tailwind CSS` `Bootstrap`
+📁 [📂 Frontend Knowledge Projects Repo](https://github.com/ehabshimi/frontend-web-development-misclues)  
+🌟 [⭐ Frontend Knowledge (Star List)](https://github.com/stars/ehabshimi/lists/frontend-knowledge)
+
+---
+
+## ⏭️ Next Plans
+
+- 🚀 Building full-stack projects (Spring Boot + React/Next.js)
+- 🛠️ Contributing to open-source Java Spring projects
+- 🌍 Preparing for backend roles in Europe
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### 🔹 Programming Languages
+`Java` `JavaScript (ES6+)` `TypeScript`
+
+### 🔹 Backend Development
+`Spring Boot` `REST APIs` `Microservices`  
+`PostgreSQL / MySQL` `MongoDB`  
+`JPA` `Hibernate` `OOP`  
+`Data Structures & Algorithms` `Schema Design`
+
+### 🔹 Frontend Development
+`React.js` `Tailwind CSS` `Bootstrap`  
+`Redux` `Context API`
+
+### 🔹 Software Engineering
+`SDLC` `SOLID` `Design Patterns`  
+`Clean Code` `Agile / Scrum`  
+`Jira` `Git & GitHub` `CI/CD (Jenkins)`  
+`Docker (Basics)` `Linux`
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email**: ehab.developer.email@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/ehab-elshimi](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)  
+- 💬 **WhatsApp**: [Chat with me](https://wa.me/201099644971)  
+- ☎️ **Phone**: [+20 1099644971](tel:+201099644971)  
+- 📍 **Location**: Zahraa Nasr City, Cairo, Egypt  
+
+---
+
+💡 *Always learning, always building.*
+
+---
+
+## 🏷️ Tags
+
+`Java` `Spring Boot` `RESTful APIs` `Microservices` `React.js` `JavaScript` `TypeScript`  
+`Tailwind CSS` `Bootstrap` `Docker` `GitHub` `Software Engineering` `Backend` `Frontend`
+
