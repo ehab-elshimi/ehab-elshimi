@@ -19,10 +19,21 @@
 
 ## 🔧 Backend Java-Spring Development
 
-I specialize in backend development using:
+I specialize in backend development using:  
 **Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **JPA/Hibernate**, and clean layered architecture.
 
-🔗 [⭐ Backend Java-Spring Stack (Star List)](https://github.com/stars/ehabshimi/lists/my-backend-java-spring-stack)
+I focus on building scalable backend systems using **Java**, **Spring Boot**, and modern backend engineering tools.
+
+### 🛠️ What I Build:
+- ✅ RESTful API development
+- 🔐 Authentication & Authorization systems
+- 🗃️ Integration with PostgreSQL, MySQL, and MongoDB
+- 🧱 Clean Architecture, SOLID Principles & Design Patterns
+- ⚙️ Microservices architecture and layered project structures
+
+📂 **Explore my backend projects and tools**:  
+🌟 [Backend Java-Spring Stack (Star List)](https://github.com/stars/ehab-elshimi-developer/lists/backend-java-spring-stack)
+
 
 ---
 
@@ -30,9 +41,8 @@ I specialize in backend development using:
 
 In addition to backend, I’ve gained practical experience building and styling web interfaces using:
 **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Tailwind CSS**, **React.js**, and **Next.js**.
-
-📁 [📂 Frontend Knowledge Projects Repo](https://github.com/ehabshimi/frontend-web-development-misclues)  
-🌟 [⭐ Frontend Knowledge (Star List)](https://github.com/stars/ehabshimi/lists/frontend-knowledge)
+- 📁 [Frontend Projects Archive Repo](https://github.com/ehab-elshimi-developer/frontend-web-development-misclues)
+- 🌟 [Frontend Knowledge (Star List)](https://github.com/stars/ehab-elshimi-developer/lists/frontend-knowledge)  
 
 ---
 
