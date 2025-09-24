@@ -1,79 +1,77 @@
 <h1 align="center">Hi 👋, I'm Ehab Elshimi</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Backend Engineer | Java Spring Boot Developer</h3>
+<h3 align="center">🚀 Passionate Software Developer | Backend PHP Laravel Developer | React | Full-Stack Web Developer</h3>
 
 ---
 
-💻 I'm a **Backend Engineer** specializing in Java Spring Boot, focused on building robust APIs and scalable backend systems.
+💻 I'm a **Backend Developer** specializing in **PHP Laravel**, focused on building robust APIs, scalable backend systems, and full-stack web applications.
 
-📈 My goal is to gain deep expertise, contribute to top tech teams, and grow step by step into a **Technical Lead**.
+📈 My goal is to deepen my expertise in backend development, contribute to impactful projects in FinTech & Open Banking, and grow step by step into a **Technical Lead**.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Benisuef University**, Bachelor of Computer Science and Artificial Intelligence (2019 – 2023)  
-- 🧠 **Graduation Project**: AI-Powered Skin Care Analysis (Grade: Excellent)  
+- 🎓 **Beni-Suef University**, Bachelor of Computer Science and Artificial Intelligence (2019 – 2023)  
+- 🧠 **Graduation Project**: AI-Powered Skin Care Analysis System (Grade: Excellent)  
 - 📊 **GPA**: 2.8 (Very Good)
 
 ---
 
-## 🖥️ Backend Java-Spring Development
+## 🖥️ Backend PHP-Laravel Development
 
 I specialize in backend development using:  
-**Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **JPA/Hibernate**, and clean layered architecture.
-
-I focus on building scalable backend systems using **Java**, **Spring Boot**, and modern backend engineering tools.
+**PHP**, **Laravel**, **REST APIs**, **MySQL**, and modern backend engineering practices.
 
 ### 🛠️ What I Build:
-- ✅ RESTful API development
+- ✅ RESTful API development & integration
 - 🔐 Authentication & Authorization systems
-- 🗃️ Integration with PostgreSQL, MySQL, and MongoDB
+- 🗃️ Database design & management (MySQL/PostgreSQL)
 - 🧱 Clean Architecture, SOLID Principles & Design Patterns
-- ⚙️ Microservices architecture and layered project structures
+- ⚙️ Microservices architecture and modular project structures
 
-📂 **Explore my backend projects and tools**:  
-🌟 [Backend Java-Spring Stack (Star List)](https://github.com/stars/ehab-elshimi-developer/lists/backend-java-spring-stack)
-
+📂 **Explore my backend projects**:  
+🌟 [Backend PHP-Laravel Projects](https://github.com/stars/ehab-elshimi/lists/backend-php-laravel)
 
 ---
 
 ## 🌐 Frontend Knowledge
 
-In addition to backend, I’ve gained practical experience building and styling web interfaces using:
-**HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Tailwind CSS**, **React.js**, and **Next.js**.
-- 📁 [Frontend Projects Archive Repo](https://github.com/ehab-elshimi-developer/frontend-web-development-misclues)
-- 🌟 [Frontend Knowledge (Star List)](https://github.com/stars/ehab-elshimi-developer/lists/frontend-knowledge)  
+In addition to backend, I build and style web interfaces using:  
+**React.js**, **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**.  
+
+- 📁 [Frontend Projects Archive](https://github.com/ehab-elshimi/frontend-web-development-misclues)  
+- 🌟 [Frontend Knowledge (Star List)](https://github.com/stars/ehab-elshimi/lists/frontend-knowledge)  
 
 ---
 
 ## ⏭️ Next Plans
 
-- 🚀 Building full-stack projects (Spring Boot + React/Next.js)
-- 🛠️ Contributing to open-source Java Spring projects
-- 🌍 Preparing for backend roles in Europe
+- 🚀 Expand PHP Laravel projects & full-stack applications (Laravel + React)  
+- 🛠️ Learn **Java Spring Boot** for backend versatility  
+- 🌍 Explore backend opportunities in **FinTech, Open Banking, and APIs**  
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
 ### 🔹 Programming Languages
-`Java` `JavaScript (ES6+)` `TypeScript`
+`PHP` `JavaScript (ES6+)` `TypeScript` `Learning Java`
 
 ### 🔹 Backend Development
-`Spring Boot` `REST APIs` `Microservices`  
-`PostgreSQL / MySQL` `MongoDB`  
-`JPA` `Hibernate` `OOP`  
-`Data Structures & Algorithms` `Schema Design`
+`Laravel` `REST APIs` `API Development` `Microservices`  
+`MySQL / PostgreSQL` `Database Design`  
+`OOP` `Clean Architecture` `SOLID Principles`  
 
 ### 🔹 Frontend Development
 `React.js` `Tailwind CSS` `Bootstrap`  
 `Redux` `Context API`
 
-### 🔹 Software Engineering
-`SDLC` `SOLID` `Design Patterns`  
-`Clean Code` `Agile / Scrum`  
-`Jira` `Git & GitHub` `CI/CD (Jenkins)`  
-`Docker (Basics)` `Linux`
+### 🔹 Software Engineering & Practices
+`Agile / Scrum` `Problem Solving` `Team Collaboration`  
+`Freelance Projects` `Clean Code` `CI/CD Basics` `Git & GitHub`  
+
+### 🔹 FinTech & Banking Awareness
+`FinTech` `Open Banking` `Digital Banking` `API Integration`  
 
 ---
 
@@ -93,6 +91,5 @@ In addition to backend, I’ve gained practical experience building and styling 
 
 ## 🏷️ Tags
 
-`Java` `Spring Boot` `RESTful APIs` `Microservices` `React.js` `JavaScript` `TypeScript`  
-`Tailwind CSS` `Bootstrap` `Docker` `GitHub` `Software Engineering` `Backend` `Frontend`
-
+`PHP` `Laravel` `REST APIs` `API Development` `MySQL` `Backend` `Full-Stack`  
+`React.js` `JavaScript` `Tailwind CSS` `Bootstrap` `FinTech` `Open Banking` `Freelance` `Clean Code`
