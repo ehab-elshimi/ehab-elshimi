@@ -29,8 +29,10 @@ I specialize in backend development using:
 - 🧱 Clean Architecture, SOLID Principles & Design Patterns
 - ⚙️ Microservices architecture and modular project structures
 
-📂 **Explore my backend projects**:  
-🌟 [Backend PHP-Laravel Projects](https://github.com/stars/ehab-elshimi/lists/backend-php-laravel)
+🌟 **Explore my backend projects**:  
+
+- 📁 [Backend PHP/Laravel Projects (Star List)](https://github.com/stars/ehab-elshimi/lists/backend-php-laravel-stack)
+
 
 ---
 
@@ -39,8 +41,7 @@ I specialize in backend development using:
 In addition to backend, I build and style web interfaces using:  
 **React.js**, **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**.  
 
-- 📁 [Frontend Projects Archive](https://github.com/ehab-elshimi/frontend-web-development-misclues)  
-- 🌟 [Frontend Knowledge (Star List)](https://github.com/stars/ehab-elshimi/lists/frontend-knowledge)  
+- 📁 [Frontend Projects (Star List)](https://github.com/stars/ehab-elshimi/lists/frontend-react-stack)
 
 ---
 
