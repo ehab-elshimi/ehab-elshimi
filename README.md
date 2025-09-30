@@ -13,7 +13,8 @@
 
 - 🎓 **Beni-Suef University**, Bachelor of Computer Science and Artificial Intelligence (2019 – 2023)  
 - 🧠 **Graduation Project**: AI-Powered Skin Care Analysis System (Grade: Excellent)  
-- 📊 **GPA**: 2.8 (Very Good)
+- 📊 **GPA**: 2.93 (Non-German) | 1.8 (German Scale)
+
 
 ---
 
