@@ -83,7 +83,7 @@ In addition to backend, I build and style web interfaces using:
 - 💼 **LinkedIn**: [linkedin.com/in/ehab-elshimi](https://www.linkedin.com/in/ehab-elshimi-b76b0a149/)  
 - 💬 **WhatsApp**: [Chat with me](https://wa.me/201099644971)  
 - ☎️ **Phone**: [+20 1099644971](tel:+201099644971)  
-- 📍 **Location**: Zahraa Nasr City, Cairo, Egypt  
+- 📍 **Location**: Al Haram, Giza, Egypt  
 
 ---
 
